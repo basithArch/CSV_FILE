@@ -1,0 +1,14 @@
+footer{
+    color: white !important;
+}
+.contact{
+    text-transform: capitalize;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+@media screen and (max-width:600px) {
+    .text-center{
+        font-size: 13px;
+    }    
+}

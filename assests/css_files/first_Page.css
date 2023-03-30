@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(11, 11, 11);
+  }
+   /* Styling for the main content area */
+   main {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  /* Styling for the logo */
+  /* Styling for the login and signup forms */
+  form {
+    background-color: #3f5b78;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+    margin: 10px;
+    padding: 20px;
+    max-width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  form h2 {
+    margin-top: 0;
+  }
+  form input[type=text], form input[type=password], form input[type=email] {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+  }
+  form button {
+    background-color: #86b7ee;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+  }
+  form button:hover {
+    background-color: #86b7ee;
+  }
+  /* Styling for the login and signup form links */
+  .form-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  .form-links a {
+    color: #86b7ee;
+    text-decoration: none !important;
+    transition: background-color 0.2s;
+  } 
+  
+.btn-google {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    color: #707070;
+    display: inline-block;
+    font-size: 16px;
+    /* font-weight: bold; */
+    margin-top: 10px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-google:hover {
+    background-color: #eeeeee;
+    cursor: pointer;
+  }
+  
+  .google-signin {
+    text-align: center;
+  }
+  .btn-google img{
+    width: 20px;
+    height: 20px;
+    margin-left: -8px;
+  }
+.password-toggle{
+   transform: translateY(-50%);
+   width: 30px;
+   height: 30px;
+   background-image: url();
+   background-size: cover;
+   cursor: pointer;
+}
+  .fa-eye-slash:before {
+    content: "\f070";
+  }
+  .fa-eye:before {
+    content: "\f06e";
+  }
+  
+  /* media queries */
+  @media screen and (max-width: 600px) {
+    form{
+        font-size: 13px !important;
+    }
+    form input[type=text], form input[type=password], form input[type=email] {
+        font-size: 10px;
+        margin-bottom: 5px;
+        padding: 5px;
+        width: 100%;
+    }
+  }

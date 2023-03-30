@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(4, 39, 72);
+    
+}
+main{
+    text-align: center;
+    height: 80vh !important;
+}
+.username{
+    color: white;
+}
+.username:hover{
+    color: rgb(205, 204, 204);
+}
+h1 {
+    margin-top: 10px;
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.user-details {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.user-details p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+}
+.user-details p span {
+    font-weight: bold;
+    color: #ffffff;
+}

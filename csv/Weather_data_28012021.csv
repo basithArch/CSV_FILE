@@ -1,0 +1,150 @@
+City,Temp.,Max Temp.,Min Temp.,Humidity,Wind,Condition,Rain Possibility,UV Index,Air Quality
+Mumbai,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Delhi,10,15,6,12,2,cool,Clear Cloud,5,Normal
+Bangalore,19,24,15,30,5,cool,Clear Cloud,7,Good
+Kolkata,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Chennai,25,30,21,42,7,sunny,Most Probable,9,Very Good
+Ahmedabad,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Hyderabad,18,23,14,28,4.67,cool,Clear Cloud,7,Good
+Pune,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Kanpur,11,16,7,14,2.33,cool,Clear Cloud,5,Normal
+Jaipur,12,17,8,16,2.67,cool,Clear Cloud,5,Normal
+Maharashtra,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Lucknow,11,16,7,14,2.33,cool,Clear Cloud,5,Normal
+Nagpur,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Farrikhabad,10,15,6,12,2,cool,Clear Cloud,5,Normal
+Indore,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Patna,19,24,15,30,5,cool,Clear Cloud,7,Good
+Bhopal,19,24,15,30,5,cool,Clear Cloud,7,Good
+Thoothukudi,27,32,23,46,7.67,sunny,Most Probable,9,Very Good
+Ludhiana,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Tirunelveli,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Agra,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Vadodara,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Gorakhpur,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Nashik,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Pimpri,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Kalyan,31,36,27,54,9,warm,Most Probable,9,Very Good
+Thane,29,34,25,50,8.33,sunny,Most Probable,9,Very Good
+Meerut,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Faridabad,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Ghaziabad,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Dombivali,31,36,27,54,9,warm,Most Probable,9,Very Good
+Rajkot,25,30,21,42,7,sunny,Most Probable,9,Very Good
+Varanasi,18,23,14,28,4.67,cool,Clear Cloud,7,Good
+Amritsar,15,20,11,22,3.67,cool,Clear Cloud,7,Normal
+Allahabad,18,23,14,28,4.67,cool,Clear Cloud,7,Good
+Visakhapatnam,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Theni,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Jabalpur,19,24,15,30,5,cool,Clear Cloud,7,Good
+Howrah,19,24,15,30,5,cool,Clear Cloud,7,Good
+Aurangabad,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Shivaji Nagar,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Solapur,25,30,21,42,7,sunny,Most Probable,9,Very Good
+Mohali,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Srinagar,3,8,-1,-2,-0.33,cold,Clear Cloud,2,Bad
+Chandigarh,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Coimbatore,27,32,23,46,7.67,sunny,Most Probable,9,Very Good
+Jodhpur,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Madurai,29,34,25,50,8.33,sunny,Most Probable,9,Very Good
+Guwahati,19,24,15,30,5,cool,Clear Cloud,7,Good
+Gwalior,18,23,14,28,4.67,cool,Clear Cloud,7,Good
+Vijayawada,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Mysore,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Ranchi,15,20,11,22,3.67,cool,Clear Cloud,7,Normal
+Hubli,26,31,22,44,7.33,sunny,Most Probable,9,Very Good
+Jalandhar,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Thiruvananthapuram,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Salem,26,31,22,44,7.33,sunny,Most Probable,9,Very Good
+Tiruchirappalli,29,34,25,50,8.33,sunny,Most Probable,9,Very Good
+Kota,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Bhubaneswar,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Aligarh,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Bareilly,15,20,11,22,3.67,cool,Clear Cloud,7,Normal
+Moradabad,15,20,11,22,3.67,cool,Clear Cloud,7,Normal
+Bhiwandi,30,35,26,52,8.67,warm,Most Probable,9,Very Good
+Raipur,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Gorakhpur,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Bhilai,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Jamshedpur,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Borivali,29,34,25,50,8.33,sunny,Most Probable,9,Very Good
+Kochi,29,34,25,50,8.33,sunny,Most Probable,9,Very Good
+Amravati,22,27,18,36,6,Haze,Clear Cloud,8,Good
+Sangli,26,31,22,44,7.33,sunny,Most Probable,9,Very Good
+Fatehgarh Sahib,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Cuttack,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Bikaner,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Warangal,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Bhavnagar,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Nanded,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Raurkela,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Guntur,27,32,23,46,7.67,sunny,Most Probable,9,Very Good
+Dehradun,17,22,13,26,4.33,cool,Clear Cloud,7,Normal
+Durgapur,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Ajmer,18,23,14,28,4.67,cool,Clear Cloud,7,Good
+Ulhasnagar,31,36,27,54,9,warm,Most Probable,9,Very Good
+Kolhapur,26,31,22,44,7.33,sunny,Most Probable,9,Very Good
+Siliguri,19,24,15,30,5,cool,Clear Cloud,7,Good
+Asansol,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Jamnagar,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Saharanpur,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Gulbarga,25,30,21,42,7,sunny,Most Probable,9,Very Good
+Bhatapara,21,26,17,34,5.67,Haze,Clear Cloud,8,Good
+Jammu,14,19,10,20,3.33,cool,Clear Cloud,5,Normal
+Kurnool,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Ujjain,20,25,16,32,5.33,Haze,Clear Cloud,8,Good
+Nangi,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Kozhikode,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Malegaon,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Davangere,27,32,23,46,7.67,sunny,Most Probable,9,Very Good
+Jalgaon,24,29,20,40,6.67,Haze,Clear Cloud,8,Very Good
+Akola,23,28,19,38,6.33,Haze,Clear Cloud,8,Very Good
+Peru,18,23,14,28,4.666666667,cool,Clear Cloud,7,Good
+Philippines,21,26,17,34,5.666666667,Haze,Clear Cloud,8,Good
+Poland,21,26,17,34,5.666666667,Haze,Clear Cloud,8,Good
+Portugal,24,29,20,40,6.666666667,Haze,Clear Cloud,8,Very Good
+Puerto Rico,18,23,14,28,4.666666667,cool,Clear Cloud,7,Good
+Qatar,9,14,5,10,1.666666667,cold,Clear Cloud,3,Bad
+Romania,21,26,17,34,5.666666667,Haze,Clear Cloud,8,Good
+Russia,6,11,2,4,0.666666667,cold,Clear Cloud,3,Bad
+Russian Empire,3,8,-1,-2,-0.333333333,cold,Clear Cloud,2,Bad
+Soviet Union,11,16,7,14,2.333333333,cool,Clear Cloud,5,Normal
+Unified Team,1,6,-3,-6,-1,cold,Clear Cloud,2,Bad
+Russia,0,5,-4,-8,-1.333333333,cold,Clear Cloud,2,Bad
+Saudi Arabia,11,16,7,14,2.333333333,cool,Clear Cloud,5,Normal
+Samoa,9,14,5,10,1.666666667,cold,Clear Cloud,3,Bad
+Senegal,14,19,10,20,3.333333333,cool,Clear Cloud,5,Normal
+Serbia,4,9,0,0,0,cold,Clear Cloud,2,Bad
+SerbiaandMontenegro,1,6,-3,-6,-1,cold,Clear Cloud,2,Bad
+Singapore,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Slovakia,6,11,2,4,0.666666667,cold,Clear Cloud,3,Bad
+Slovenia,7,12,3,6,1,cold,Clear Cloud,3,Bad
+South Africa,19,24,15,30,5,cool,Clear Cloud,7,Good
+Spain,23,28,19,38,6.333333333,Haze,Clear Cloud,8,Very Good
+Sri Lanka,17,22,13,26,4.333333333,cool,Clear Cloud,7,Normal
+Sudan,12,17,8,16,2.666666667,cool,Clear Cloud,5,Normal
+Suriname,12,17,8,16,2.666666667,cool,Clear Cloud,5,Normal
+Sweden,27,32,23,46,7.666666667,sunny,Most Probable,9,Very Good
+Switzerland,28,33,24,48,8,sunny,Most Probable,9,Very Good
+Syria,13,18,9,18,3,cool,Clear Cloud,5,Normal
+Chinese Taipei,14,19,10,20,3.333333333,cool,Clear Cloud,5,Normal
+Tajikistan,6,11,2,4,0.666666667,cold,Clear Cloud,3,Bad
+Tanzania,13,18,9,18,3,cool,Clear Cloud,5,Normal
+Thailand,16,21,12,24,4,cool,Clear Cloud,7,Normal
+Togo,10,15,6,12,2,cool,Clear Cloud,5,Normal
+Tonga,9,14,5,10,1.666666667,cold,Clear Cloud,3,Bad
+TrinidadandTobago,17,22,13,26,4.333333333,cool,Clear Cloud,7,Normal
+Tunisia,14,19,10,20,3.333333333,cool,Clear Cloud,5,Normal
+Turkey,22,27,18,36,6,Haze,Clear Cloud,8,Good
+Uganda,15,20,11,22,3.666666667,cool,Clear Cloud,7,Normal
+Ukraine,6,11,2,4,0.666666667,cold,Clear Cloud,3,Bad
+UnitedArabEmirates,9,14,5,10,1.666666667,cold,Clear Cloud,3,Bad
+United States,27,32,23,46,7.666666667,sunny,Most Probable,9,Very Good
+Uruguay,21,26,17,34,5.666666667,Haze,Clear Cloud,8,Good
+Uzbekistan,6,11,2,4,0.666666667,cold,Clear Cloud,3,Bad
+Venezuela,18,23,14,28,4.666666667,cool,Clear Cloud,7,Good
+Vietnam,15,20,11,22,3.666666667,cool,Clear Cloud,7,Normal
+Virgin Islands,12,17,8,16,2.666666667,cool,Clear Cloud,5,Normal
+Yugoslavia,18,23,14,28,4.666666667,cool,Clear Cloud,7,Good
+Zambia,13,18,9,18,3,cool,Clear Cloud,5,Normal
+Zimbabwe,13,18,9,18,3,cool,Clear Cloud,5,Normal
